@@ -1,4 +1,4 @@
-# Recommended next steps:
+# Mobile Development:
 Note: Make sure you have installed native code dependencies [here](https://reactnative.dev/docs/environment-setup#installing-dependencies)
 
 ### To preview and run the project on your device:
